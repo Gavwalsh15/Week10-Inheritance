@@ -40,10 +40,8 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", address='" + address + '\'' +
-                ", telephone='" + telephone + '\'' +
-                '}';
+        return "Name: " + name + '\n' +
+                "Address: " + address + '\n' +
+                "Telephone: " + telephone + '\n';
     }
 }
