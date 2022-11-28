@@ -1,6 +1,5 @@
 package ie.atu.week10;
 
-import java.util.Scanner;
 
 public class Inheritance {
 
